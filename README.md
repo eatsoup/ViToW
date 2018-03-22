@@ -1,4 +1,9 @@
+Run Vim inside Terminator on Windows!
+Direct editing of files by drag and drop!
+
+
 Shell launch script for Windows
+
 Requires WSL (Bash) to be installed in Windows
 
 I've packed an exe for convenience
