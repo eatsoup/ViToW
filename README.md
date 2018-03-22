@@ -14,4 +14,4 @@ Else append the filename to edit in Vim (drag and drop works too!)
 
 If you have any keyboard mappings issues, look at /usr/share/X11/locale/en_US.UTF-8/Compose
 
-![Alt text](ViToW.png?raw=true)
+![Alt text](https://raw.githubusercontent.com/eatsoup/ViToW/master/ViToW.png)
