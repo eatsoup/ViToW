@@ -13,3 +13,5 @@ If the program is run wihout parameters, start a terminator shell
 Else append the filename to edit in Vim (drag and drop works too!) 
 
 If you have any keyboard mappings issues, look at /usr/share/X11/locale/en_US.UTF-8/Compose
+
+![Alt text](ViToW.png?raw=true)
